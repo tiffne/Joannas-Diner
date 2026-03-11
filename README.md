@@ -4,7 +4,7 @@ Joanna's Diner is a cooking and serving simulator game where you, Joanna the cow
 
 Made for the Vertical Slice DATT 2310 Lab 1 Game Jam.
 
-## Itch Page 🐮: https://theojammm.itch.io/joannas-diner
+## Download it on Itch 🐮: https://theojammm.itch.io/joannas-diner
 ## Gameplay Video: https://www.youtube.com/watch?v=L92velToPSo
 
 ### Team: Studio Got Beef
